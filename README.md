@@ -6,12 +6,9 @@ This project is the first one of the Machine Learning Engineer Nanodegree progra
 
 ## Results
 
-<img src="https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/assets/Results%20-%20Positive%20Review.PNG" alt="drawing" width="250"/>
+<img src="https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/assets/Results%20-%20Positive%20Review.PNG" alt="Positive Review" width="350" style="horizontal-align:middle"/>
 
-<!--!![Deployed model using a local web app - Positive Review](https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/assets/Results%20-%20Positive%20Review.PNG)-->
-
-<img src="https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/assets/Results%20-%20Negative%20Review.PNG" alt="drawing" width="250"/>
-<!--![Deployed model using a local web app - Negative Review](https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/assets/Results%20-%20Negative%20Review.PNG =250x)-->
+<img src="https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/assets/Results%20-%20Negative%20Review.PNG" alt="Negative Review" width="350" style="horizontal-align:middle"/>
 
 ## Services Flow
 
