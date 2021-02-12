@@ -10,13 +10,13 @@ Every code after _#TODO_ comments were written by Rodolfo Teles.
 
 ## Results
 
-<img src="https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/assets/Results%20-%20Positive%20Review.PNG" alt="Positive Review" width="350"/>
+<p align="center"><img src="https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/assets/Results%20-%20Positive%20Review.PNG" alt="Positive Review" width="350"/>
 
-<p align="center"> <img src="https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/assets/Results%20-%20Negative%20Review.PNG" alt="Negative Review" width="350"/>
+<p align="center"><img src="https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/assets/Results%20-%20Negative%20Review.PNG" alt="Negative Review" width="350"/>
 
 ## Services Flow
 
-![Services Flow](https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/Web%20App%20Diagram.svg)
+<p align="center"><img src="https://github.com/rodolfojt/Sentiment-Analysis-SageMaker/blob/master/Web%20App%20Diagram.svg" alt="Services Flow" width="350"/>
 
 
 ## AWS Resources used to Deployment
